@@ -1,0 +1,3 @@
+touchend add e.preventdefault()
+windwo.onload windwo. domcontentloaded
+img object-fit:cover

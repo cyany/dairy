@@ -1,0 +1,14 @@
+1.img element do not use ::before and :after
+2.waterfall function dynamic set children item height and when item which disapper its height set to parent box height
+3.weired height may be is font-size,you can set font-size:0
+4.if you want to set vue website root to localhost/s/adshjk12781387hajshk,you can package 
+normal and set dist/s/index.html static and router.js config /s/:articleId
+5.to know vue ui framework
+6.manipartiple vs code and keycode !!!
+7.ban to ios smooth effect !
+8.https://www.zhihu.com/question/46630687/answer/157166318
+9.                                                                             https://router.vuejs.org/zh/guide/essentials/dynamic-matching.html#%E5%93%8D%E5%BA%94%E8%B7%AF%E7%94%B1%E5%8F%82%E6%95%B0%E7%9A%84%E5%8F%98%E5%8C%96
+ 10.transitionend setInterval time and transition:all 1s time has effect
+
+11.android phone transitionend has not effect ,need to set e.preventDefault();
+12.qrcode.js
